@@ -2,7 +2,7 @@
 print("Hello, World!")
 
 # Simple variables
-a = 5
+a = 6
 b = 3
 
 # Addition
